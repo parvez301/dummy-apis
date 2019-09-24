@@ -1,14 +1,14 @@
 {
-    "response": [
-        "hello world"
-    ],
-    "status": true,
-"conversation_data": {
-    "insurance_no": "CDQP12324",
-    "payment_mode": "COD" 
-  },
-  "permanent_user_data": {
-    "phone_number": 8826755986,
-    "date_of_birth": "21/07/1995"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
