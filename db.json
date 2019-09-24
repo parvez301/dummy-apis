@@ -2,7 +2,7 @@
     "response": [
         "hello world"
     ],
-    "status": True,
+    "status": true,
 "conversation_data": {
     "insurance_no": "CDQP12324",
     "payment_mode": "COD" 
